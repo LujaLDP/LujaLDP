@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @LujaLDP
-- 👀 I’m interested in Videogames.
-- 🌱 I’m currently learning How to code properly...
-- 💞️ I’m looking to collaborate on DUNNO! :P
+- 👀 I’m interested in videogames.
+- 🌱 I’m currently learning how to code properly...
+- 💞️ I’m looking to collaborate on a game.
 - 📫 How to reach me jeaxcommunityluja@gmail.com
-
-<!---
-LujaLDP/LujaLDP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> OMEGALUL, also I am twitch streamer on www.twitch.tv/lujaldp go and sub nerds!!
+- 🕹️ also I am Twitch affiliate, follow me at www.twitch.tv/lujaldp
