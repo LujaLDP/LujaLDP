@@ -7,4 +7,4 @@
 <!---
 LujaLDP/LujaLDP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> OMEGALUL, also I am twitch streamer on twitch.tv/lujaldp go and sub nerds!!
+---> OMEGALUL, also I am twitch streamer on www.twitch.tv/lujaldp go and sub nerds!!
