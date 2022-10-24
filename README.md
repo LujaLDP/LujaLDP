@@ -2,5 +2,6 @@
 - 👀 I’m interested in videogames.
 - 🌱 I’m currently learning how to code properly...
 - 💞️ I’m looking to collaborate on a game.
-- 📫 How to reach me jeaxcommunityluja@gmail.com
+- 📫 How to reach me lucaldipasquale@gmail.com
 - 🕹️ also I am Twitch affiliate, follow me at www.twitch.tv/lujaldp
+- 💬 Discord https://discord.gg/wEVK8f7qMP
